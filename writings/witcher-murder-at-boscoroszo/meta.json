@@ -1,0 +1,10 @@
+﻿{
+  "title": "Hunt the witcher - Murder at Boscoroszo",
+  "description": "A table top RPG story set in the world of the witcher.",
+  "cover": "cover.jpg",
+  "parts": [
+    { "id": "adventure-begins", "title": "Adventure begins !", "file": "adventure-begins.md" },
+    { "id": "characters", "title": "Characters", "file": "characters.md" },
+    { "id": "locations", "title": "Locations", "file": "locations.md" }
+  ]
+}
