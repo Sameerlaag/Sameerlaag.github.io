@@ -21,7 +21,10 @@ The format i like to follow when creating prefabs :
 - the dying (who wants to save himself or loved ones with Fazil's research)
 - the savior (who cares and preserves about the region, the world, or whatever got entangled into this hunt )
 - the loved one (who mirrors the savior by caring about Fazil or wanting to stop him)
-
+#### The Format
+There are different story formats to drive your characters into going through with the adventure, and here i'm finding inspiration in the 80s - 90s japanese episodic anime format, where your party of adventurers go though short stpry episodes linked by the thread of being part of The rogue witcher's path to whatever his goals is, while mirroring the background and offering narrative routes to develop each party member.   
+The antagonist here, is ment to be seen as a *power hungry lunatic who knows something*, and thus each episode is ment to write him into being driven by something greater tht mystifies him and gives more and more weight onto the party's main quest.
+It's not a save the world kind of adventure, but rather *stop something that challenges the way of the world, and maybe challenge it in a different manner*.
 ### Murder at Boscoroszo
 #### The premise
 
@@ -39,39 +42,48 @@ Tensions boil across the agitated land. With the strange deaths occurring and th
 
 #### The larger picture
 
-Arriving in town, the players learn Fazil murdered the alchemist’s only son, sparking the chaos that followed and distracted just enough to free a local bandit chief and flee with him into the northern forests. The townsfolk want blood, and thus a bounty will be set for the head of Fazil and the bandits, hoping to calm the unrest.
-Looking further into the agitation and the bandits, the players can learn of a botched heist that occurred a few weeks earlier, leading to the arrest of the chief.
+Upon arriving in Boscoroszo, the players learn that Fazil burned down the herbalist–alchemist’s shop, killing the man’s only son in the blaze. The fire sparked chaos across the town, serving as a distraction just long enough for Fazil to break a local bandit chief out of prison and flee with him into the northern forests.
 
-The pack of renegades called *Les chiens sauvages*, attempted to ransack the Boscoroszo - MaisonRouge burial vault, allegedly keeping treasures and ornaments, but got mangled and torn to pieces to what the chief claims to be a monstrous Owl beast coinciding with the rural folklore believing the town is under the watch of owls.
-Thus, the chief let himself be captured, terrified of said beast, expecting protection within the prison walls, only to be sentenced to death when the sword was found gone.
+The townsfolk are furious. Blood is demanded, and a bounty is soon placed on Fazil and the escaped bandits, an attempt to calm the unrest and ease the growing tension between the commoners and the barony.
 
-Eventually the players will traverse the hills and woods looking to find the witcher and bandits, regardless of weather they intend to address their situation or not since they're seemingly their best lead. Through the century old battlefields now home to monsters, they come across villagers managing to survive in these wilds, seemingly navigating through the red bosquet's traps and beasts like sailors under a clear sky, slowly revealing what might pivot the way they address the political compass.
+Digging deeper into the agitation and the bandits’ presence, the players can uncover the events of a failed heist that took place weeks earlier, which led to the chief’s arrest.  
+The renegade pack known as _Les Chiens Sauvages_ attempted to raid the Boscoroszo–MaisonRouge burial vault, rumored to hold treasures and ornaments. According to the chief, the bandits were torn apart by a monstrous owl-like creature. This aligns with old rural folklore claiming the town is watched over by owls—stories most dismiss as fairy tales, yet rumors spread far enough to reach Fazil.
 
-(this extra part is a link to another episode, and a tension reliefer off the events of the story, feel free to ignore )
-**While tracking, the players might encounter [[Leslie]], searching for her missing friend — allegedly kidnapped by a witcher. If the party has a witcher, she might mistake him for the culprit and attack.** *([[Leslie]] is an important asset for the next adventure, but also a key to the end of this one that the player should not grasp, read through her page and [[Fazil]]'s plan to improve or redact depending on what how you want to use this campaign)*
-(end of the extra)
+Terrified, the chief allowed himself to be captured, believing the prison walls would protect him from the beast. Instead, he was sentenced to death when the founder’s sword of the city was discovered missing.
 
-The bandits they track turn out not to be mere criminals. Their traps and raids target mostly foreign merchants, border patrols, and nobles. The players might learn they are former mercenaries or poor peasants — working in secret with local rulers, stirring unrest to justify border taxes and raiding rich merchants. A kind of orchestrated Robin Hoodism, justified by the constant economical foreign pressure.
+As the players pursue the witcher (and possibly the bandits) through the surrounding woods and hills, they inevitably cross paths with _Les Chiens Sauvages_. These lands, once century-old battlefields, are now infested with monsters. Yet villagers survive here—not just enduring, but adapting—coexisting with the dangers, navigating the red bosquet’s traps and beasts with unsettling ease. This slow revelation may challenge how the party understands the region’s political balance.
 
-A few weeks before, these bandits raided the MaisonRouge vault, tasked by none other than the first corpse the party saw on their arrival, Eduardo, heir to the lands, who had sent them to steal the family sword from sire Claude’s grave, his own grandfather and town founder.
-None returned, thus they believe they were setup to be disposed of, turning the people against them, and kill the flames of the sparking revolt.
+The bandits are not mere criminals. Their traps and monster attacks mostly target foreign merchants, border patrols, and nobles. Comprised largely of former mercenaries and impoverished peasants, they secretly work with local rulers to stir unrest—justifying border taxes while keeping the local population fed and clothed. A form of orchestrated Robin Hoodism, born from constant foreign economic pressure.
 
-Fazil on the other hand heard of an owl like beast haunting the region, rumors of a cursed family, which coincides with one of the leads he has on his own quest, thus embarked on a journey to startle the region and throw oil to the fire hoping to lay hands on whatever power hidden between the red trees.
+_(Optional link to another episode — can be ignored)_  
+**While tracking, the players might encounter [[Leslie]], searching for her missing friend—allegedly kidnapped by a witcher. If the party includes a witcher, she may mistake him for the culprit and attack.** _([[Leslie]] is an important asset for the next adventure, and also a key to the end of this one that the players should not fully grasp. Read her page and [[Fazil]]’s plan to expand or redact depending on how you use this campaign.)_  
+_(End of optional content)_
 
-Figuring what happened with the sword, means understanding the motivations of Eduardo, uncovering his hidden romantic involvement, with one who lurks in Boscoroszo's shadows, and runs a conspiracy to take down Alice.
+From the bandits perspective, weeks earlier, they had been sent to raid the MaisonRouge vault by Eduardo, heir to the lands—the very first corpse the party found upon arrival. Eduardo hired them to steal the family sword from the grave of his grandfather, Claude, founder of the town, promising a revolution and a renewal of the principles to which the region was founded, putting the hardworking villagers at the heart of their rulings and destribution of wealth.
 
-Thus the story unfolds in what i see being three major parts :
-- Arriving, acclimating to, and learning about the on goings of Boscoroszo.
-- Weather a side is taken or not, start the hunt for the witcher and/or the bandit pack.
-- Discover Fazil's goals, and either
-    - Reveal the truth and stop the massacres at the risk of losing track of Fazil.
-    - Work with one of the 3 sides of the conflict, and confront Fazil .
-    - Remain neutral, and join the hunt to acquire the sword while being preyed upon by the Owl.
+Yet, none of the bandits returned, the chief was captured and the rest of the pack came to believe they had been set up—meant to die, to turn the people against them, and to smother the early flames of revolt. Thus fearing for their lives and families, as the witcher brought their commander to them, started orchestrating an attack to the MaisonRouge itself, guided by their newly met savior.
 
+Fazil, meanwhile, had heard rumors of an owl-like beast haunting the region, along with whispers of a cursed family—details that aligned with one of the leads in his own pursuit. He came to Boscoroszo to unsettle the region, pour oil on the fire, and force whatever power lay beneath the red trees to surface.
+
+Understanding what happened to the sword requires uncovering Eduardo’s motives, including his secret romantic involvement with someone who lurks and conspires in Boscoroszo’s shadows—hunted by the protector of the lands.
+
+From here, the story naturally unfolds in three major parts:
+
+- Arrival, acclimation, and uncovering the truth behind Boscoroszo’s unrest.
+
+- Choosing whether or not to take sides, and beginning the hunt for the witcher and/or the bandits.
+
+- Discovering Fazil’s true goal, leading to one of the following outcomes:
+
+    - Reveal the truth and stop the massacres, at the risk of losing Fazil’s trail.
+
+    - Work with one of the three factions and confront Fazil directly.
+
+    - Remain neutral, join the hunt for the sword, and survive while being stalked by the Owl.
 ---
 #### reveals and secrets (wip)
 
-The **secret of Boscoroszo**: the barony was never won in noble battle. Instead, they struck a pact with a [[mysterious individual]] who sealed it upon the once young warrior's sword. Bound to that sword was a beast — a monstrous owl [[Hibou]] that would guard their lands, slaughter the enemies of the region, and unbeknownst to them condemn its owners to eternal battle and endless conflict.
+The **secret of Boscoroszo**: the barony was never won in noble battle. Instead, they struck a pact with a [[mysterious individual]] who sealed it upon a once young warrior's sword, binding to it a beast — a monstrous owl [[Hibou]] that would guard their lands, slaughter their enemies, and unbeknownst to them condemn its owners to eternal battle and endless conflict.
 
 When sire Claude died of old age, the pact passed to his son. It crushed him under its curse. After him came Alice, who grew cold hearted and cynical and paranoid as she lost her husband, the people’s trust, and then her own children, to who she believed to be spies and assassins of foreign affairs, never realizing that while no blade ever got to her throat, there is a beast keeping hers close to her.
 
