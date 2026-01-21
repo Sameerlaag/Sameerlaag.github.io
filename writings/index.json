@@ -4,5 +4,15 @@
     "title": "Hunt the witcher - Murder at Boscoroszo",
     "description": "A table top RPG story set in the world of the witcher.",
     "cover": "/writings/clockmakers-silence/cover.jpg"
+  },{
+    "slug": "diner-119-street",
+    "title": "119st diner",
+    "description": "A table top RPG horror story set in the US 70s-90s.",
+    "cover": "/writings/clockmakers-silence/cover.jpg"
+  },{
+    "slug": "dao-bann-too-many",
+    "title": "Dragon Age A Bann Too Many [expansion]",
+  "description": "An expansion of the table top RPG dark fantasy story set in the world of Bioware's Dragon Age Origins.",
+    "cover": "/writings/clockmakers-silence/cover.jpg"
   }
 ]
