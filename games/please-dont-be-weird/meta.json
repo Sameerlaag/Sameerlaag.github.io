@@ -1,0 +1,28 @@
+﻿{
+  "title": "Please Don't Be Weird",
+  "description": "A conversation sim game centered on social anxiety.",
+  "status": "In Development",
+  "parts": [
+   
+    {
+      "id": "maps",
+      "title": "Maps & Level Design",
+      "file": "maps.md"
+    },
+    {
+      "id": "technical",
+      "title": "Technical Deep Dive",
+      "file": "technical.md"
+    },
+    {
+      "id": "devlog",
+      "title": "Development Journey",
+      "file": "devlog.md"
+    },
+    {
+      "id": "roadmap",
+      "title": "Roadmap & Future Plans",
+      "file": "roadmap.md"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "title": "Endless Sea (temporary name)",
+  "description": "A themed horror game in a post apocalyptic sea setting.",
+  "status": "In Development",
+  "parts": [
+    {
+      "id": "concept",
+      "title": "Concept",
+      "file": "concept.md"
+    },    
+    {
+      "id": "technical",
+      "title": "Technical Deep Dive",
+      "file": "technical.md"
+    },
+    {
+      "id": "devlog",
+      "title": "Development Journey",
+      "file": "devlog.md"
+    },
+    {
+      "id": "roadmap",
+      "title": "Roadmap & Future Plans",
+      "file": "roadmap.md"
+    }
+  ]
+}
