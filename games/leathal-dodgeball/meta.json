@@ -1,0 +1,37 @@
+﻿{
+  "title": "Lethal Dodgeball",
+  "description": "An fps goofy dodgeball game for both solo and multiplayer.",
+  "status": "In Development",
+  "parts": [
+    {
+      "id": "team",
+      "title": "Team",
+      "file": "team.md"
+    },    
+    {
+      "id": "concept",
+      "title": "Concept",
+      "file": "concept.md"
+    },
+    {
+      "id": "map",
+      "title": "Map & Level Design",
+      "file": "map.md"
+    },
+    {
+      "id": "technical",
+      "title": "Technical Deep Dive",
+      "file": "technical.md"
+    },
+    {
+      "id": "devlog",
+      "title": "Development Journey",
+      "file": "devlog.md"
+    },
+    {
+      "id": "roadmap",
+      "title": "Roadmap & Future Plans",
+      "file": "roadmap.md"
+    }
+  ]
+}

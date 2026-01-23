@@ -1,0 +1,21 @@
+﻿[
+  {
+    "slug": "endless-sea",
+    "title": "Endless Sea (temporary name)",
+    "description": "A themed horror game in a post apocalyptic sea setting.",
+    "cover": "/writings/clockmakers-silence/cover.jpg"
+  },
+  {
+    "slug": "leathal-dodgeball",
+    "thumbnail" : "thumbnail.png",
+    "title": "Lethal Dodgeball",
+    "description": "An fps goofy dodgeball game for both solo and multiplayer.",
+    "cover": "/writings/clockmakers-silence/cover.jpg"
+  },
+  {
+    "slug": "please-dont-be-weird",
+    "title": "Please Don't Be Weird",
+    "description": "A conversation sim game centered on social anxiety.",
+    "cover": "/writings/clockmakers-silence/cover.jpg"
+  }
+]
