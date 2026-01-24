@@ -8,3 +8,7 @@ The game was first made for the 20 seconds game jam, where the goal is to design
 
 ![Cover Art](cover-art.png)
 
+## Appendix: Media & Links
+https://itch.io/jam/20-second-game-jam-2025
+
+https://krohnen.itch.io/lethal-dodgeball-20s-edition

@@ -6,4 +6,12 @@
 
 The goal of the game is to create a disturbing post-apo sea ambiance through mundane activities portrayed as minigames.
 
+## Appendix: Media & Links
+https://itch.io/jam/themed-horror-game-jam-23
 
+### Gameplay Videos
+https://youtu.be/TM_CoG66SRA
+
+https://youtu.be/Ifp9ic5O6A4
+
+https://youtu.be/6s2foQVrwtM
