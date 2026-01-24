@@ -5,9 +5,19 @@
   "parts": [
    
     {
+      "id": "concept",
+      "title": "Concept",
+      "file": "concept.md"
+    },   
+    {
       "id": "maps",
       "title": "Maps & Level Design",
       "file": "maps.md"
+    },
+    {
+      "id": "character",
+      "title": "Characters design",
+      "file": "character.md"
     },
     {
       "id": "technical",
