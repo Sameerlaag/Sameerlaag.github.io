@@ -1,12 +1,17 @@
 ﻿{
-  "title": "Endless Sea (temporary name)",
-  "description": "A themed horror game in a post apocalyptic sea setting.",
+  "title": "The Giant's Bones",
+  "description": "A nautical horror salvage-simulator game where you explore a poisoned ocean in search of just enough wealth to stave off poverty.  Can you survive as the world decays around you?",
     "status": "In Development",
   "parts": [
     {
       "id": "concept",
       "title": "Concept",
       "file": "concept.md"
+    },  
+    {
+      "id": "team",
+      "title": "Team",
+      "file": "team.md"
     },    
     {
       "id": "technical",
