@@ -7,6 +7,13 @@
     "cover": "/writings/clockmakers-silence/cover.jpg"
   },
   {
+    "slug": "siw",
+    "title": "Something Is Wrong",
+    "description": "A psychological horror insurance simulation game.",
+    "thumbnail" : "thumbnail.png",
+    "cover": "/writings/clockmakers-silence/cover.jpg"
+  },
+  {
     "slug": "leathal-dodgeball",
     "thumbnail" : "thumbnail.png",
     "title": "Lethal Dodgeball",

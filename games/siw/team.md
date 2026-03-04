@@ -1,0 +1,5 @@
+﻿The team is comprised of myself and a senior Unity developer with tens years + of industry presence on the dev side, a professional writer serving as a narrative designer, a couple of sound and audio engineers 3D artists, including the game designer and producer of [something is wrong](https://store.steampowered.com/app/3895130/Something_is_wrong/).
+
+I came to join them as i was searching for people to work with and gain experience, and i was lucky enough to come across the developer who presented me to the rest of the team.
+
+The workflow we follow is similar to the agile / scrum project management i've grown accustomed to through IT projects, where we plan a couple of weeks in advance, collaborate towards a list of must haves, nice to haves and QOL features, discuss on a daily basis our progress and needs, and at each cycle, build a demo and discuss the encountered issues and next goals, and since many of us are working on their off hours, we managed to setup a ticketing system and change notes to maintain communication regardless of who's active and who's not.

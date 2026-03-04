@@ -1,0 +1,32 @@
+﻿{
+  "title": "Something Is Wrong",
+  "description": "A game where you have to process insurance reimbursement claims, while following the company’s increasingly inhuman regulations… as strange things start happening in the office.",
+    "status": "In Development",
+  "parts": [
+    {
+      "id": "concept",
+      "title": "Concept",
+      "file": "concept.md"
+    },  
+    {
+      "id": "team",
+      "title": "Team",
+      "file": "team.md"
+    },    
+    {
+      "id": "technical",
+      "title": "Technical Deep Dive",
+      "file": "technical.md"
+    },
+    {
+      "id": "devlog",
+      "title": "Development Journey",
+      "file": "devlog.md"
+    },
+    {
+      "id": "roadmap",
+      "title": "Roadmap & Future Plans",
+      "file": "roadmap.md"
+    }
+  ]
+}
