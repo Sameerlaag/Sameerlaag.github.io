@@ -1,0 +1,1 @@
+﻿The current goal of the game is to reach a first playable demo, and acquire a following through social media and the internet.
