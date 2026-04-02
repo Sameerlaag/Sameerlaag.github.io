@@ -61,11 +61,11 @@ _(End of optional content)_
 
 From the bandits perspective, weeks earlier, they had been sent to raid the MaisonRouge vault by Eduardo, heir to the lands—the very first corpse the party found upon arrival. Eduardo hired them to steal the family sword from the grave of his grandfather, Claude, founder of the town, promising a revolution and a renewal of the principles to which the region was founded, putting the hardworking villagers at the heart of their rulings and destribution of wealth.
 
-Yet, none of the bandits returned, the chief was captured and the rest of the pack came to believe they had been set up—meant to die, to turn the people against them, and to smother the early flames of revolt. Thus fearing for their lives and families, as the witcher brought their commander to them, started orchestrating an attack to the MaisonRouge itself, guided by their newly met savior.
+Yet, none of the bandits returned, the chief locked himself in a grave and was later captured and the rest of the pack came to believe they had been set up—meant to die, to turn the people against them, and to smother the early flames of revolt. Thus fearing for their lives and families, as the witcher brought their commander to them, started orchestrating an attack to the MaisonRouge itself, guided by their newly met savior.
 
-Fazil, meanwhile, had heard rumors of an owl-like beast haunting the region, along with whispers of a cursed family—details that aligned with one of the leads in his own pursuit. He came to Boscoroszo to unsettle the region, pour oil on the fire, and force whatever power lay beneath the red trees to surface.
+Fazil, meanwhile, received intel of an owl-like beast haunting the region by someone *close to the barony*, along with whispers of a cursed family—details that aligned with one of the leads in his own pursuit. He came to Boscoroszo to unsettle the region, pour oil on the fire, and force whatever power lay beneath the red trees to surface and lay hands on the powers.
 
-Understanding what happened to the sword requires uncovering Eduardo’s motives, including his secret romantic involvement with someone who lurks and conspires in Boscoroszo’s shadows—hunted by the protector of the lands.
+Understanding what happened to the sword requires uncovering Eduardo’s motives, including his secret romantic involvement with someone who *lurks and conspires* in Boscoroszo’s shadows—hunted by the protector of the lands.
 
 From here, the story naturally unfolds in three major parts:
 
@@ -87,7 +87,7 @@ The **secret of Boscoroszo**: the barony was never won in noble battle. Instead,
 
 When sire Claude died of old age, the pact passed to his son. It crushed him under its curse. After him came Alice, who grew cold hearted and cynical and paranoid as she lost her husband, the people’s trust, and then her own children, to who she believed to be spies and assassins of foreign affairs, never realizing that while no blade ever got to her throat, there is a beast keeping hers close to her.
 
-Her sheltered grandson [[Eduardo]] dreamed of escape to become an adventurer, a poet, and artist. But fate bound him to [[Markusz]], lover and betrayer, who convinced him to plot the theft of his grandfather’s sword for their own benefit.
+Her sheltered grandson [[Eduardo]] dreamed of escaping the sheltered life to become an adventurer, a poet, and artist. But fate bound him to [[Markusz]], lover and betrayer, who convinced him to plot the theft of his grandfather’s sword for their own benefit.
 
 *Take the seat, free the people, free yourself, free me, and we'll leave and travel the world far from political nonsense.*
 
